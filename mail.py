@@ -10,3 +10,5 @@ for i in range(len(li)):
     message = "Message through a python program"
     s.sendmail("maheshwarishivam2604@gmail.com", li[i], message)
     s.quit()
+    li=["fruits"]
+    li=[1,2,3,4]
